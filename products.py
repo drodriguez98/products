@@ -1,7 +1,4 @@
-#   https://www.youtube.com/watch?v=W2kAF9pKPPE
-
-#   https://www.sqlite.org/download.html
-#   https://sqlitebrowser.org/dl/ 
+# Ejecutar previamente init_db.py para crear la base de datos.
 
 #   Importamos las librerías
 
